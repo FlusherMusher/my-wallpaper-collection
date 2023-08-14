@@ -4,6 +4,9 @@ Will add more in the future :)
 ==========================================================================================================================================================================
 Wallpapers come from different sources.
 
+Download all the wallpapers in a .zip file: https://drive.google.com/file/d/1Bv2UC8FW9viWX4XgboWsXP5Hcl3Maq_l/view?usp=sharing
+===
+
 Sources:
 1. (1-24) Enderman's wallpaper collection (here: https://malwarewatch.org/images/wallpapers/)
 2. (27, 32) Mac OS (more specifically, High Sierra and Mojave at night.)
