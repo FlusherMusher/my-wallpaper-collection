@@ -6,7 +6,7 @@ Download all the wallpapers in a .zip file: https://drive.google.com/file/d/1Bv2
 ===
 
 Sources:
-1. (1-24) Enderman's wallpaper collection (here: https://malwarewatch.org/images/wallpapers/)
+1. (1-24) Enderman's wallpaper collection (here: https://malwarewatch.org/images/wallpapers/) (No, the site isn't dangerous, if you see a warning ignore it.)
 2. (27, 32) Mac OS (more specifically, High Sierra and Mojave at night.)
 3. (47-52) Windows 7 regional wallpapers (Russia: Windmill, (47) Australia: Sydney, (48) Canada: Moraine Lake, (49) USA: Pemaquid Lighthouse, (50) Germany: Flasslauf, Mosem. (51, 52))
 4. (22, 29, 30) Windows 7 wallpapers
