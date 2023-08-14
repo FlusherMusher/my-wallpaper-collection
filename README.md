@@ -1,9 +1,7 @@
 Hey, I'm Flushy!        
 I have a wallpaper collection of 52 wallpapers currently.    
 Will add more in the future :)
-========================================================================================================================================================================
-Download all the wallpapers in a .zip file: https://drive.google.com/file/d/1Bv2UC8FW9viWX4XgboWsXP5Hcl3Maq_l/view?usp=sharing
-===
+=
 
 Sources:
 1. (1-24) Enderman's wallpaper collection (here: https://malwarewatch.org/images/wallpapers/) (No, the site isn't dangerous, if you see a warning ignore it.)
@@ -21,3 +19,4 @@ Sources:
 
 
 Enjoy using them! All credits go to their authors. :)
+=
