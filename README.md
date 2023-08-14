@@ -1,9 +1,7 @@
 Hey, I'm Flushy!        
 I have a wallpaper collection of 52 wallpapers currently.    
 Will add more in the future :)
-==========================================================================================================================================================================
-Wallpapers come from different sources.
-
+========================================================================================================================================================================
 Download all the wallpapers in a .zip file: https://drive.google.com/file/d/1Bv2UC8FW9viWX4XgboWsXP5Hcl3Maq_l/view?usp=sharing
 ===
 
