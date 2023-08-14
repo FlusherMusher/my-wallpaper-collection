@@ -36,10 +36,17 @@ Sources:
 
 12. (53-55) Elementary OS wallpapers repository (https://github.com/elementary/wallpapers, Ashim DSilva, Photo of Valley, Odin.)
 
-13. (56-59) Minimalistic wallpapers website (Website: https://minimalistic-wallpaper.demolab.com/
+13. (56-59) Minimalistic wallpapers website (Website: https://minimalistic-wallpaper.demolab.com/        
 Repository: https://github.com/DenverCoder1/Minimalistic-Wallpaper-Collection)
 
-14. adding later
+14. (60) Wdsrocha's wallpaper repository (https://raw.githubusercontent.com/wdsrocha/wallpapers/master/wallpapers/nature/mountains_00.jpeg)
+
+15. (61) Jonascarpay's wallpaper repository (https://raw.githubusercontent.com/jonascarpay/Wallpapers/master/papes/1520133453596.jpg
+
+16. (62-68) flick0's wallpaper repository (Repository: https://github.com/flick0/kabegami)
+
+17. (69, nice) Peppy's wallpaper repository (Repository: https://github.com/peppy/wallpapers)
+
 
 Enjoy using them! All credits go to their authors. :)
 =
